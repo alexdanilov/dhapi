@@ -1,0 +1,1 @@
+[{"model": "restaurants.restaurant", "pk": 1, "fields": {"name": "Oliva", "opens_at": "08:00:00", "closes_at": "23:59:59"}}]
